@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tinashe Gunde
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning Information Systems
+- 
